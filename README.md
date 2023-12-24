@@ -1,6 +1,7 @@
 ### Hi there, I'm Yaseema 👋
-I'm currently a second year undergraduate at the Department of Electronic & Telecommunication Engineering, University of Moratuwa.
-You can check out the projects I've worked on here. 
+⚡ I'm currently a second year undergraduate at the Department of Electronic & Telecommunication Engineering, University of Moratuwa.
+
+💬 You can check out the projects I've worked on in my profile. 
 <!--
 **yaseemarusiru/yaseemarusiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
